@@ -1,7 +1,5 @@
 > [!NOTE]
-> This project is no longer actively maintained. If you are interested in this theme, it is recommended to use [the new Astro version](https://github.com/saicaca/fuwari).
-> 
-> 本项目已不再活跃维护，若对本主题感兴趣，建议使用[新的 Astro 版本](https://github.com/saicaca/fuwari)
+> The upstream project is no longer actively maintained, so I created my own branch in case I need to maintain it myself. 
 
 <br>
 <div align="center">
